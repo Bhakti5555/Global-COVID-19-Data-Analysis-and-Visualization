@@ -1,5 +1,3 @@
-# Global-COVID-19-Data-Analysis-and-Visualization
-
 # COVID-19 Global Data Analysis
 
 ## Overview
